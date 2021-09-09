@@ -26,7 +26,7 @@ gem 'devise', '>= 4.8.0'
 gem 'high_voltage'
 gem 'jquery-rails', '>= 4.4.0'
 group :development do
-  gem 'better_errors', '>= 2.5.0'
+  gem 'better_errors', '>= 2.8.0'
   gem 'rails_apps_pages'
   gem 'rails_layout'
 end
