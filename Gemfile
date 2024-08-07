@@ -21,7 +21,7 @@ group :development do
   gem 'web-console', '>= 3.7.0'
 end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'bootstrap', '~> 4.3.1'
+gem 'bootstrap', '~> 5.0.0'
 gem 'devise', '>= 4.8.0'
 gem 'high_voltage'
 gem 'jquery-rails', '>= 4.4.0'
